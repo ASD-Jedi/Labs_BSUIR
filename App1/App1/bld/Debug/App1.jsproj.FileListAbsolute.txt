@@ -1,0 +1,15 @@
+D:\Programs\App1\App1\bin\Debug\ReverseMap\resources.pri
+D:\Programs\App1\App1\bin\Debug\AppxManifest.xml
+D:\Programs\App1\App1\bin\Debug\App1.build.appxrecipe
+D:\Programs\App1\App1\bld\Debug\priconfig.xml
+D:\Programs\App1\App1\bld\Debug\priconfig.xml.intermediate
+D:\Programs\App1\App1\bld\Debug\layout.resfiles
+D:\Programs\App1\App1\bld\Debug\layout.resfiles.intermediate
+D:\Programs\App1\App1\bld\Debug\resources.resfiles
+D:\Programs\App1\App1\bld\Debug\resources.resfiles.intermediate
+D:\Programs\App1\App1\bld\Debug\pri.resfiles
+D:\Programs\App1\App1\bld\Debug\pri.resfiles.intermediate
+D:\Programs\App1\App1\bld\Debug\qualifiers.txt
+D:\Programs\App1\App1\bld\Debug\qualifiers.txt.intermediate
+D:\Programs\App1\App1\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Programs\App1\App1\bld\Debug\ProjectArchitectures.txt
